@@ -2,7 +2,7 @@
 
 
 
-#flutter 命名
+# flutter 命名
 export PUB_HOSTED_URL=https://pub.flutter-io.cn
 export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 export PATH=$HOME/flutter/bin:$PATH
@@ -10,7 +10,7 @@ export PATH=$HOME/flutter/bin:$PATH
 
 
 
-#python命名
+# python命名
 alias py3="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7"
 alias py2='/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7'
 
@@ -26,11 +26,11 @@ alias piu='pod install --repo-update'
 alias fb='fastlane beta'
 alias fa='fastlane adhoc'
 
-#infer
+# infer
 export PATH=`pwd`/infer/bin:$PATH
 
 
 
-#apache命名
+# apache命名
 alias st='sudo apachectl start'
 alias sp='sudo apachectl stop'
